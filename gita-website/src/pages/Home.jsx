@@ -19,7 +19,7 @@ function Home(){
                         <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>
                         <li className="nav-item"><a className="nav-link" href="">Donate</a></li>
                         <li className="nav-item"><a className="nav-link" href="">Q/A</a></li>
-                        <li className="nav-item"><a className="nav-link" href="">Login/Register</a></li>
+                        <li className="nav-item"><a className="nav-link" href="/loginPage">Login/Register</a></li>
                     </ul>
                 </div>
             </div>
