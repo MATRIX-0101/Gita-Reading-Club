@@ -5,7 +5,7 @@
   box-sizing: border-box;
   font-family: "Poppins",sans-serif;
 }
-/* .container{
+.container1{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -13,7 +13,7 @@
   background : url('../../public/assets/img/backgroung-img.webp');
   background-position: center;
   background-size: cover;
-} */
+}
 .wrapper{
   width:420px;
   background: transparent;

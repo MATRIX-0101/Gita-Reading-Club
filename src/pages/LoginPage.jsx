@@ -9,7 +9,7 @@ export default function LoginPage() {
   return (
     <>
     <div>
-      <div className="container">
+      <div className="container1">
         <div className="wrapper">
             <form action="">
                 <h1>Login</h1>
