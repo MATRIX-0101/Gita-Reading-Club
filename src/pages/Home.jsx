@@ -1,11 +1,13 @@
+import '../styles/home.css';
 
 function Home(){
+    
     return (
         <div>
                     {/* <!-- Navigation--> */}
         <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div className="container">
-                <a className="navbar-brand" href="#page-top"><img src="assets/img/nav-logo.svg" alt="..." /></a>
+                <a className="navbar-brand" href="#page-top"><img src="" alt="..." /></a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i className="fas fa-bars ms-1"></i>
